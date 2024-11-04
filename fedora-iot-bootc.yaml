@@ -1,0 +1,11 @@
+variables:
+  distro: "fedora-iot"
+
+metadata:
+  name: fedora-iot-bootc
+  summary: Fedora IoT bootc image
+
+include:
+  - base-images/tier-x/manifest.yaml
+  - base-images/tier-x/kernel.yaml
+  - iot-packages.yaml
