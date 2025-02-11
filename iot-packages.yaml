@@ -4,7 +4,6 @@ packages:
   - aardvark-dns
   - atheros-firmware
   - authselect
-  - basesystem
   - bash
   - brcmfmac-firmware
   - chrony
@@ -20,6 +19,7 @@ packages:
   - dracut-config-generic
   - dracut-network
   - fdo-client
+  - filesystem
   - firewalld
   - fwupd-efi
   - fwupd-plugin-modem-manager
