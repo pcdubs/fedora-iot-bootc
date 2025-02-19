@@ -45,7 +45,6 @@ packages:
   - passt-selinux
   - pinentry
   - policycoreutils
-  - policycoreutils-python-utils
   - procps-ng
   - realtek-firmware
   - rootfiles
