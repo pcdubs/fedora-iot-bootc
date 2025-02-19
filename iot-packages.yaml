@@ -14,7 +14,6 @@ packages:
   - containernetworking-plugins
   - cracklib-dicts
   - curl
-  - dbus-parsec
   - dnf5-plugins
   - dracut-config-generic
   - dracut-network
@@ -44,7 +43,6 @@ packages:
   - openssl
   - passt
   - passt-selinux
-  - parsec
   - pinentry
   - policycoreutils
   - policycoreutils-python-utils
