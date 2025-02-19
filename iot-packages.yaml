@@ -14,7 +14,6 @@ packages:
   - containernetworking-plugins
   - cracklib-dicts
   - curl
-  - dbus-parsec
   - dnf5-plugins
   - dracut-config-generic
   - dracut-network
@@ -44,10 +43,8 @@ packages:
   - openssl
   - passt
   - passt-selinux
-  - parsec
   - pinentry
   - policycoreutils
-  - policycoreutils-python-utils
   - procps-ng
   - realtek-firmware
   - rootfiles
@@ -66,7 +63,6 @@ packages:
   - wpa_supplicant
   - wireless-regdb
   - xz
-  - zezere-ignition
   - zram-generator-defaults
 packages-aarch64:
   - arm-image-installer
