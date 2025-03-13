@@ -1,6 +1,7 @@
 # Fedora IoT specific packages
 packages:
   - fedora-release-iot
+  - fedora-iot-config
   - aardvark-dns
   - atheros-firmware
   - authselect
@@ -18,6 +19,7 @@ packages:
   - dracut-config-generic
   - dracut-network
   - fdo-client
+  - fdo-owner-cli
   - filesystem
   - firewalld
   - fwupd-efi
@@ -30,11 +32,11 @@ packages:
   - greenboot-default-health-checks
   - gzip
   - ignition
+  - ignition-edge
   - ima-evm-utils
   - iputils
   - iwd
   - iwlwifi-mvm-firmware
-  - kernel-tools
   - keyutils
   - libsss_sudo
   - netavark
@@ -54,6 +56,7 @@ packages:
   - setup
   - shadow-utils
   - slirp4netns
+  - ssh-key-dir
   - sssd-client
   - tmux
   - tpm2-pkcs11
