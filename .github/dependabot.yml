@@ -6,5 +6,3 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "Submodule Update: "
-    reviewers:
-      - "fedora-iot/iot-team"
